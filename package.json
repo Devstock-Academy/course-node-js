@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node --watch ./simple-http-server/server.js"
+    "start": "node --watch --env-file=.env ./simple-http-server/server.js"
   },
   "author": "Bart",
   "license": "MIT",
