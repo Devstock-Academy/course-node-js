@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mockData.js",
+  "scripts": {
+    "start": "node --watch --env-file=../.env server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
